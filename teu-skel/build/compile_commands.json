@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/adome/Downloads/teu-skel/build",
+  "command": "/usr/bin/c++  -I/home/adome/Downloads/teu-skel/include -g -std=gnu++20 -o CMakeFiles/teu.dir/main.cpp.o -c /home/adome/Downloads/teu-skel/main.cpp",
+  "file": "/home/adome/Downloads/teu-skel/main.cpp",
+  "output": "CMakeFiles/teu.dir/main.cpp.o"
+}
+]
